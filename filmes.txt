@@ -1,0 +1,1 @@
+(nome = Deadpool, anoDeLancamento = 2016, duração = 10)
